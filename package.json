@@ -1,0 +1,20 @@
+{
+  "name": "nodejsday2",
+  "version": "1.0.0",
+  "description": "Complete Node.js guide",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "start-server": "node server.js"
+  },
+  "author": "Goutham",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
